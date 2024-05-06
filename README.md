@@ -1,11 +1,7 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo19956
-Fork on GitHub6020
-
+<img  src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="hasan-al-mashruf" />
 <div>
-<h1 align="center">Hi 👋, I'm Moeenuddin Ahmad</h1>
-<h3 align="center">A frontend focused full stack developer from Bangladesh</h3>
+<h1>Hi 👋, I'm Moeenuddin Ahmad</h1>
+<h3>A frontend focused full stack developer from Bangladesh</h3>
 </div>
 
 - 🌱 I’m currently learning **mysql, docker**
