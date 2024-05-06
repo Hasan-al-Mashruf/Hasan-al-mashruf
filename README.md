@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **full stack/mern stack**
 
-- 💬 Ask me about **javascript, react, nextjs, expressjs**
+- 💬 Ask me about **javascript, react, nextjs, nodejs(expressjs)**
 
 - 📫 How to reach me **mashruf125@gmail.com**
 
