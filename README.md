@@ -6,7 +6,7 @@
 <img align="right" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="hasan-al-mashruf" width=420/>
 - 🌱 I’m currently learning **mysql, docker**
 
-- 👯 I’m looking to collaborate on **full stack**
+- 👯 I’m looking to collaborate on **full stack/mern stack**
 
 - 💬 Ask me about **javascript, react, nextjs, expressjs**
 
