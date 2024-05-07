@@ -5,7 +5,7 @@
 <p>As a frontend-focused full-stack developer with over 1.5 years of professional experience, I possess a unique blend of skills that bridge the gap between user interface design 👩🏽‍💻 and backend functionality #️⃣. I excel in crafting seamless user experiences by leveraging the latest frontend technologies and frameworks, while also demonstrating proficiency in backend development to ensure robust and scalable solutions.</p>
 
 <img align="right" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="hasan-al-mashruf" width=420/>
-- 🌱 I’m currently learning **mysql, docker**
+- 🌱 I’m currently learning **mysql, laravel**
 
 - 👯 I’m looking to collaborate on **full stack/mern stack**
 
